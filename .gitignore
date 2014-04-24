@@ -1,0 +1,5 @@
+/.vagrant
+/settings/local.py
+WebsiteBackend/settings/local.py
+/static
+*.pyc
