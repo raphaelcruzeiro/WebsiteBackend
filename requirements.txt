@@ -5,3 +5,4 @@ gunicorn==18.0
 djangorestframework
 markdown
 django-filter
+django-cors-headers
